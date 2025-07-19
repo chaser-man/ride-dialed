@@ -3,7 +3,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // Page management
     const pages = {
         'home': 'marketing-page',
-        'support': 'support-page'
+        'support': 'support-page',
+        'privacy': 'privacy-page'
     };
 
     function showPage(pageId) {
